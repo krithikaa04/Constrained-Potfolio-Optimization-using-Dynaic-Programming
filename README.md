@@ -1,1 +1,1 @@
-# Constrained-Potfolio-Optimization-using-Dynaic-Programming
+# Constrained-Potfolio-Optimization-using-Dynamic-Programming
